@@ -8,8 +8,7 @@ $htmHead = "<!DOCTYPE HTML>
 <body>
     Некая информация обо мне как об авторе:<br>
     'Нормальный автор, талантливый'<br><br>";
-$htmlEnd = "
- 
+$htmlEnd = " 
 </body>
 </html>
 ";
